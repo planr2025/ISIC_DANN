@@ -30,7 +30,7 @@ We compare the accuracy of our model across **7 different classification tasks**
 | BA vs HA   | 49.01% | 95.50% |
 | HA vs MA   | 91.02% | 92.02% |
 | MA vs BA   | 85.89% | 91.90% |
-| BLH vs HLH | 60.45% | 45.00% |
+| BLH vs HLH | 60.45% | 60.90% |
 | BLH vs MLH | 59.25% | 76.80% |
 | HLH vs MLH | 53.08% | 59.90% |
 | BLP vs HLP | 17.89% | 74.70% |
